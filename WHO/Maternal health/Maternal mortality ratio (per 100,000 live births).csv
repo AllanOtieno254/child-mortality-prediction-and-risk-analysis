@@ -1,0 +1,79 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2023,true,,,,,,,,,,,,,378.8,,,267,,546.8,379 [267 – 547],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2023,true,,,,,,,,,,,,,5682,,,4006,,8202,5682 [4006-8202],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2022,false,,,,,,,,,,,,,388.4,,,271.1,,556.4,388 [271 – 556],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2022,false,,,,,,,,,,,,,5762,,,4021,,8254,5762 [4021-8254],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2021,false,,,,,,,,,,,,,420.9,,,297.9,,589.9,421 [298 – 590],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2021,false,,,,,,,,,,,,,6184,,,4377,,8669,6184 [4377-8669],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2020,false,,,,,,,,,,,,,421.2,,,304.9,,587.5,421 [305 – 588],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2020,false,,,,,,,,,,,,,6110,,,4423,,8523,6110 [4423-8523],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2019,false,,,,,,,,,,,,,414.9,,,307,,566,415 [307 – 566],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2019,false,,,,,,,,,,,,,5996,,,4438,,8180,5996 [4438-8180],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2018,false,,,,,,,,,,,,,428,,,321,,575.9,428 [321 – 576],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,false,,,,,,,,,,,,,6240,,,4680,,8396,6240 [4680-8396],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2017,false,,,,,,,,,,,,,427.6,,,322.5,,566.1,428 [323 – 566],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,false,,,,,,,,,,,,,6227,,,4697,,8245,6227 [4697-8245],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2016,false,,,,,,,,,,,,,440.9,,,334.6,,573.1,441 [335 – 573],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2016,false,,,,,,,,,,,,,6411,,,4865,,8332,6411 [4865-8332],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2015,false,,,,,,,,,,,,,453.4,,,346.2,,587,453 [346 – 587],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2015,false,,,,,,,,,,,,,6599,,,5038,,8544,6599 [5038-8544],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2014,false,,,,,,,,,,,,,471.9,,,362.9,,602.7,472 [363 – 603],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2014,false,,,,,,,,,,,,,6855,,,5272,,8754,6855 [5272-8754],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2013,false,,,,,,,,,,,,,485.1,,,376.1,,608.6,485 [376 – 609],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2013,false,,,,,,,,,,,,,7077,,,5486,,8879,7077 [5486-8879],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2012,false,,,,,,,,,,,,,496.6,,,390.3,,623.6,497 [390 – 624],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2012,false,,,,,,,,,,,,,7340,,,5768,,9216,7340 [5768-9216],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2011,false,,,,,,,,,,,,,494.8,,,391.1,,617.1,495 [391 – 617],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2011,false,,,,,,,,,,,,,7406,,,5855,,9238,7406 [5855-9238],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,498.4,,,398.4,,619.2,498 [398 – 619],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,7519,,,6011,,9341,7519 [6011-9341],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2009,false,,,,,,,,,,,,,498.3,,,400.6,,621,498 [401 – 621],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2009,false,,,,,,,,,,,,,7484,,,6017,,9327,7484 [6017-9327],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2008,false,,,,,,,,,,,,,484,,,389.6,,599.6,484 [390 – 600],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2008,false,,,,,,,,,,,,,7182,,,5782,,8898,7182 [5782-8898],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2007,false,,,,,,,,,,,,,474.9,,,383,,583.5,475 [383 – 583],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2007,false,,,,,,,,,,,,,6918,,,5579,,8500,6918 [5579-8500],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2006,false,,,,,,,,,,,,,449.6,,,364,,549.9,450 [364 – 550],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2006,false,,,,,,,,,,,,,6387,,,5170,,7812,6387 [5170-7812],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2005,false,,,,,,,,,,,,,433.6,,,352.6,,527.6,434 [353 – 528],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2005,false,,,,,,,,,,,,,6019,,,4895,,7324,6019 [4895-7324],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2004,false,,,,,,,,,,,,,426,,,346.7,,520.2,426 [347 – 520],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2004,false,,,,,,,,,,,,,5783,,,4706,,7060,5783 [4706-7060],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2003,false,,,,,,,,,,,,,428.8,,,352.2,,522.9,429 [352 – 523],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2003,false,,,,,,,,,,,,,5693,,,4676,,6944,5693 [4676-6944],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2002,false,,,,,,,,,,,,,436.4,,,358.8,,535,436 [359 – 535],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2002,false,,,,,,,,,,,,,5687,,,4676,,6972,5687 [4676-6972],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2001,false,,,,,,,,,,,,,433.4,,,356.1,,530.3,433 [356 – 530],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2001,false,,,,,,,,,,,,,5507,,,4525,,6739,5507 [4525-6739],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2000,false,,,,,,,,,,,,,445.1,,,365.1,,543.8,445 [365 – 544],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2000,false,,,,,,,,,,,,,5488,,,4502,,6705,5488 [4502-6705],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1999,false,,,,,,,,,,,,,447.8,,,366.8,,547.9,448 [367 – 548],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1999,false,,,,,,,,,,,,,5369,,,4398,,6569,5369 [4398-6569],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1998,false,,,,,,,,,,,,,463.9,,,379.8,,570.1,464 [380 – 570],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1998,false,,,,,,,,,,,,,5443,,,4456,,6689,5443 [4456-6689],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1997,false,,,,,,,,,,,,,486.5,,,396.7,,597.4,486 [397 – 597],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1997,false,,,,,,,,,,,,,5543,,,4520,,6807,5543 [4520-6807],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1996,false,,,,,,,,,,,,,507.4,,,412.6,,624.3,507 [413 – 624],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1996,false,,,,,,,,,,,,,5637,,,4584,,6936,5637 [4584-6936],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1995,false,,,,,,,,,,,,,511.7,,,414.2,,633.2,512 [414 – 633],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1995,false,,,,,,,,,,,,,5558,,,4498,,6878,5558 [4498-6878],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1994,false,,,,,,,,,,,,,527.4,,,423.2,,653.1,527 [423 – 653],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1994,false,,,,,,,,,,,,,5573,,,4471,,6900,5573 [4471-6900],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1993,false,,,,,,,,,,,,,532,,,424.1,,662.6,532 [424 – 663],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1993,false,,,,,,,,,,,,,5534,,,4412,,6893,5534 [4412-6893],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1992,false,,,,,,,,,,,,,562.7,,,444.8,,708.3,563 [445 – 708],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1992,false,,,,,,,,,,,,,5773,,,4564,,7267,5773 [4564-7267],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1991,false,,,,,,,,,,,,,588.9,,,463,,749.4,589 [463 – 749],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1991,false,,,,,,,,,,,,,5995,,,4713,,7629,5995 [4713-7629],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1990,false,,,,,,,,,,,,,620.2,,,483.4,,802.1,620 [483 – 802],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1990,false,,,,,,,,,,,,,6237,,,4861,,8066,6237 [4861-8066],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1989,false,,,,,,,,,,,,,544.3,,,420.5,,715,544 [421 – 715],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1989,false,,,,,,,,,,,,,5404,,,4175,,7099,5404 [4175-7099],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1988,false,,,,,,,,,,,,,567.8,,,432.6,,757.4,568 [433 – 757],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1988,false,,,,,,,,,,,,,5529,,,4213,,7376,5529 [4213-7376],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1987,false,,,,,,,,,,,,,586.9,,,439.4,,795.9,587 [439 – 796],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1987,false,,,,,,,,,,,,,5602,,,4193,,7596,5602 [4193-7596],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1986,false,,,,,,,,,,,,,613.8,,,450.2,,846.4,614 [450 – 846],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1986,false,,,,,,,,,,,,,5698,,,4179,,7858,5698 [4179-7858],,,EN,2025-04-09T21:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,1985,false,,,,,,,,,,,,,636.2,,,461.8,,892.4,636 [462 – 892],,,EN,2025-04-09T21:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,1985,false,,,,,,,,,,,,,5725,,,4155,,8029,5725 [4155-8029],,,EN,2025-04-09T21:00:00.000Z
