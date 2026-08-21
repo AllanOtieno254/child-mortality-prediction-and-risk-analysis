@@ -10,7 +10,6 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
-
 ## 📌 Project Overview
 
 Child mortality remains one of the most important indicators of population health and development. Although global child mortality has declined over the past decades, substantial inequalities continue to exist across countries and populations.
